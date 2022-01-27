@@ -1,7 +1,7 @@
 # Java-Login-Module
 .by Ghali Muga.
 ## Description
-Registration and Login module that uses JDBC.
+Registration and Login module that uses JDBC and some really cool CSS styles that'll surely get you going
 ## Prerequisites
 .Knowledge of Java programming language
 .Knowledge of MySQL
