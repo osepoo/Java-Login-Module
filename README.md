@@ -13,6 +13,4 @@ Registration and Login module that uses JDBC and some really cool CSS styles tha
 - Clone this repo to your local machine and install all the prerequisites stated above.
 - Create a database and related table like below
 
-![snip](https://user-images.githubusercontent.com/98480075/151368520-9f688dd6-8828-4c90-bdfd-c9ca8a564da7.JPG)
-
 - ps. For all the united lovers, I've added a sancho background image, just type "sancho.jpg"  in CSS.
